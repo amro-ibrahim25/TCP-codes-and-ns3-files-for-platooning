@@ -13,7 +13,7 @@ For more information on how to initiate the connection between Matlab, SUMO, and
  reception ratios and delays to the controller implemented in Matlab. Different network congestion levels can be simulated
  by adjusting the number of communicating vehicles using SUMO and the corresponding control performance is evaluated.
 
-![MATLAB_SUMO_ns3](../images/MATLAB_SUMO_ns3.png)
+![MATLAB_SUMO_ns3](../master/images/MATLAB_SUMO_ns3.png)
 
  
 ## Installation
