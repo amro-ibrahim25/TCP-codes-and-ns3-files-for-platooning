@@ -4,9 +4,7 @@
 For more information on how to initiate the connection between Matlab, SUMO, and ns3, please read the details in: https://www.es.ele.tue.nl/~dgoswami/crets 
 
 ---
-layout: page
-title: CReTS
-permalink: /crets
+
 ---
 
 # CReTS framework
