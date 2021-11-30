@@ -13,10 +13,9 @@ For more information on how to initiate the connection between Matlab, SUMO, and
  reception ratios and delays to the controller implemented in Matlab. Different network congestion levels can be simulated
  by adjusting the number of communicating vehicles using SUMO and the corresponding control performance is evaluated.
 
-<p align="center">
-  <img src="{{ site.urlbase }}images/MATLAB_SUMO_ns3.png" width="800">
-</p>
+![MATLAB_SUMO_ns3](../images/MATLAB_SUMO_ns3.png)
 
+ 
 ## Installation
 ### **1. Traci4Matlab**
 Traci4Maltab is an Application Programming Interface (API) developed in Matlab that allows the communication between SUMO (Simulation of Urban Mobility) and an application 
